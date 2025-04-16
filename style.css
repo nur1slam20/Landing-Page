@@ -231,10 +231,15 @@ body {
 
 .btn.start2 {
     background: linear-gradient(135deg, #6e8efb, #a777e3);
+    width: 200px;
+    height: 50px;
 }
 
 .btn.start {
     background: linear-gradient(135deg, #6e8efb, #a777e3);
+    width: 200px;
+    height: 50px;
+    margin-top: 2%;
 }
 
 .btn.start3 {
@@ -242,8 +247,10 @@ body {
     color: white;
     position: relative;
     top: 15px;
-    right: 286px;
-
+    right: 265px;
+    border-color: white;
+    width: 150px;
+    height: 50px;
 }
 
 .block-4 {
@@ -362,6 +369,8 @@ body {
 .btn.start4 {
     background: linear-gradient(135deg, #6e8efb, #a777e3);
     color: white;
+    width: 200px;
+    height: 50px;
 }
 
 .symka {
@@ -419,8 +428,7 @@ body {
     width: 312px;
     position: relative;
     background-color: #ffffff00;
-    border-color: linear-gradient(135deg, #7494ff, #a777e3);
-
+    border-color: linear-gradient(5%, #7494ff, #a777e3);
 }
 
 footer {
